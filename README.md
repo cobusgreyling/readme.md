@@ -28,7 +28,7 @@
                        l:i;;;i!*lllllrx%XAAAH#@@$ri;;;;:                                . LinkedIn (54k): ....................... in/cobusgreyling
                       ii.*l!!**lrx%%SSAAHA&#@@@@Sii;;i;;;;;;                            . X: .................................... @CobusGreylingZA
                   ....il.;rr*lr%SAAXXAHA&#@@@@@X!iiiii;ii!!iiii:;                       . Substack: ................... cobusgreyling.substack.com
-		....il.;rr*lr%SAAXXAHA&#@@@@@X!iiiii;ii!!iiii:;				. Medium (32k): ................. cobusgreyling.medium.com
+		....il.;rr*lr%SAAXXAHA&#@@@@@X!iiiii;ii!!iiii:;									. Medium (32k): ................. cobusgreyling.medium.com
               .....,,.l&*:*xrrrxSAXXXXH#$@#@@$A*i!iii!iii;!!!!!!i;;;;                   .
          ......,,,,,,,%%Hl;r%%xxrr%%%X$$@#@@$$ri!!iiiiii;:i!ii!!!!!!ii;;;               ─ GitHub Stats ───────────────────────────────────────────
    ,......,,,,,,,,,,,!l.*#rlxSS%%%SASlrX@#@$$%i!!i!!i;;:::;i!!!i!!!!!!!!!iii;;          . Repos: .............. 108 (LlamaIndex, Nemotron, Agents)
